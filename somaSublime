@@ -1,0 +1,12 @@
+#include<conio.h>
+#include<stdio.h>
+main()
+{
+	int a, b, c;
+	system("cls");
+	printf("2 numeros:\n");
+	scanf("%d%d", &a, &b);
+	c = a + b;
+	printf("=%d", c);
+	system("pause");
+}

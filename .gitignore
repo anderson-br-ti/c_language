@@ -1,0 +1,10 @@
+
+*.dev
+*.cpp
+*.exe
+*.zip
+*.txt
+soma_sublime
+*.sublime-workspace
+*.alg
+*.lnk
